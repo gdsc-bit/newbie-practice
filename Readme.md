@@ -37,11 +37,12 @@ To contribute to this project, follow these steps:
 
 2. **Edit the contributors.html file** to add your information to the table.
    
-<tr>
-  <td>Your Name</td>
-  <td>Your Email</td>
-  <td>Your Hobbies</td>
-</tr>
+   ```html
+   <tr>
+     <td>Your Name</td>
+     <td>Your Email</td>
+     <td>Your Hobbies</td>
+   </tr>
 
 3. Save the file and commit changes:
    
