@@ -67,6 +67,3 @@ To contribute to this project, follow these steps:
 ## License
 This project is licensed under the MIT License
 Thank you for contributing to Hacktoberfest'23 Contributors! Your contributions are greatly appreciated.
-
-
-
