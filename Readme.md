@@ -33,7 +33,7 @@ To contribute to this project, follow these steps:
 1.**Create a new branch** for your contribution. Choose a meaningful branch name, for example:
 ```bash
 git checkout -b add-your-name
-```
+
 2. **Edit the contributors.html file** to add your information to the table.
    
 <tr>
