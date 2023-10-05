@@ -44,15 +44,16 @@ git checkout -b add-your-name
 
 3. Save the file and commit changes:
    
-```bash
-git add contributors.html
-git commit -m "Add [Your Name] to contributors"
-```
-###M aking a Pull Request
+  ```bash
+  git add contributors.html
+  git commit -m "Add [Your Name] to contributors"
+  ```
+
+### Making a Pull Request
 1. **Push your changes** to the forked repo :
-```bash
-git push origin add-your-name
-```
+  ```bash
+  git push origin add-your-name
+  ```
 2. Visit the original repository on GitHub (the one you forked from).
 
 3. Create a Pull Request by clicking the "New Pull Request" button.
